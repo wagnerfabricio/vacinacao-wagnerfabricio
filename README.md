@@ -6,8 +6,7 @@ Api com rotas básicas para registrar e armazenar os cartões de vacinação.
 
 # Url base \*\*\*
 
-O url base dessa API será executada no [localhost](http://localhost) com a porta padrão 5000 e o endpoint “/api”:
-localhost:5000/api
+O url base dessa API será executada em **https://entrega-19-vagner-fabricio.herokuapp.com**
 
 # Endpoints
 
